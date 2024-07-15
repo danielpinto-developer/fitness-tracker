@@ -1,0 +1,23 @@
+.home-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .home-container h1 {
+    color: #6200EE;
+  }
+  
+  .home-container p {
+    color: #3700B3;
+  }
+  
+  #home-image {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 20px auto;
+  }
